@@ -51,7 +51,7 @@
 &kp ESC         &trans  &kp W   &kp E   &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
 &kp LCTRL       &kp A   &kp S   &kp D   &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
 &kp LEFT_SHIFT  &trans  &trans  &trans  &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
-                                &trans  &kp SPACE  &kp SPACE    &trans  &trans  &to 0
+                                &to 0   &kp SPACE  &kp SPACE    &trans  &trans  &to 0
             >;
         };
     };
